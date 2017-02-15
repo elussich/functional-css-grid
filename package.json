@@ -1,0 +1,28 @@
+{
+  "name": "functional-grid",
+  "version": "0.1.0",
+  "description": "Functional approach on Grid CSS implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elussich/functional-grid.git"
+  },
+  "keywords": [
+    "css",
+    "functional",
+    "grid",
+    "atomic"
+  ],
+  "author": "Esteban Lussich <elussich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elussich/functional-grid/issues"
+  },
+  "homepage": "https://github.com/elussich/functional-grid#readme",
+  "devDependencies": {
+    "tachyons": "^4.6.2"
+  }
+}

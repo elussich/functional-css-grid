@@ -1,2 +1,2 @@
-# functional-css-grid
+# functional-grid
 Functional approach on Grid CSS implementation.
