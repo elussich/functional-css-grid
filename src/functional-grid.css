@@ -8,6 +8,16 @@
 }
 
 /**
+ * Add "not small" media query variation, heavily inspired on Tachyons same mechanism.
+ */
+@media screen and (min-width: 30em) {
+	.grid-ns {
+		display: grid;
+		grid-auto-columns: minmax(min-content, 1fr);
+	}
+}
+
+/**
  * Grid Column Span Definitions
  */
 .col-span-1 { grid-column: auto / span 1; }
