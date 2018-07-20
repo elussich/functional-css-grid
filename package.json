@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elussich/functional-grid.git"
+    "url": "https://github.com/elussich/functional-grid.git"
   },
   "keywords": [
     "css",
