@@ -100,6 +100,8 @@
 /**
  * Grid Row End Definitions
  */
+
+/* autoprefixer: off */
 .row-end-1 { grid-row-end: 1; }
 .row-end-2 { grid-row-end: 2; }
 .row-end-3 { grid-row-end: 3; }
@@ -112,6 +114,7 @@
 .row-end-10 { grid-row-end: 10; }
 .row-end-11 { grid-row-end: 11; }
 .row-end-12 { grid-row-end: 12; }
+/* autoprefixer: on */
 
 /**
  * Grid Column Gap Definitions
